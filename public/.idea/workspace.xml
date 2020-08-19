@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5c6a3c9-a02e-4d3b-bda2-0240cd43324b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <execution />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server id="9a2538e9-75db-4979-a1dc-31c553ba12d8" name="Unnamed" />
+    </servers>
+  </component>
+  <component name="ProjectId" id="1gISNYJshG5eBFV7THhcrwKD0G9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="reference.settingsDialog.application.dockerMachine" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5c6a3c9-a02e-4d3b-bda2-0240cd43324b" name="Default Changelist" comment="" />
+      <created>1597800573410</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597800573410</updated>
+      <workItem from="1597800574527" duration="361000" />
+      <workItem from="1597800983354" duration="228000" />
+      <workItem from="1597801270122" duration="109000" />
+      <workItem from="1597801423312" duration="226000" />
+      <workItem from="1597801836318" duration="629000" />
+      <workItem from="1597802810337" duration="236000" />
+      <workItem from="1597803173729" duration="73000" />
+      <workItem from="1597803395536" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="547" y="180" key="#CLI_Interpreters" timestamp="1597802122827">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="547" y="180" key="#CLI_Interpreters/0.0.1920.1044@0.0.1920.1044" timestamp="1597802122827" />
+    <state x="741" y="407" width="670" height="334" key="#Docker" timestamp="1597802120794">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="741" y="407" width="670" height="334" key="#Docker/0.0.1920.1044@0.0.1920.1044" timestamp="1597802120794" />
+    <state x="711" y="411" key="#Docker2" timestamp="1597800862573">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="711" y="411" key="#Docker2/0.0.1920.1044@0.0.1920.1044" timestamp="1597800862573" />
+    <state x="733" y="354" width="583" height="334" key="#Docker3" timestamp="1597800934162">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="733" y="354" width="583" height="334" key="#Docker3/0.0.1920.1044@0.0.1920.1044" timestamp="1597800934162" />
+    <state x="0" y="0" width="1920" height="1044" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597801103528">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="0" y="0" width="1920" height="1044" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1597801103528" />
+    <state x="813" y="462" key="DockerComposeFileDialog" timestamp="1597801046203">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="813" y="462" key="DockerComposeFileDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1597801046203" />
+    <state x="828" y="332" key="EnvironmentVariablesDialog" timestamp="1597800727115">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="828" y="332" key="EnvironmentVariablesDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1597800727115" />
+    <state x="755" y="332" width="424" height="483" key="FileChooserDialogImpl" timestamp="1597803421783">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="755" y="332" width="424" height="483" key="FileChooserDialogImpl/0.0.1920.1044@0.0.1920.1044" timestamp="1597803421783" />
+    <state x="461" y="157" key="SettingsEditor" timestamp="1597803244229">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="461" y="157" key="SettingsEditor/0.0.1920.1044@0.0.1920.1044" timestamp="1597803244229" />
+  </component>
+</project>
