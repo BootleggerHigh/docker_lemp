@@ -8,8 +8,7 @@
 
 1) [docker-compose build](https://docs.docker.com/compose/reference/build/ "What is docker-compose build")
 
-2) [docker-compose up](https://docs.docker.com/compose/reference/up/ "What is docker-compose up")
-
+2) [docker-compose up](https://docs.docker.com/compose/reference/up/ "What is docker-compose up") or docker-compose  up -d (the background)
 
 *What is there:* 
 
