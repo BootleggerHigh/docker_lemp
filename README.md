@@ -10,6 +10,10 @@
 
 2) [docker-compose up](https://docs.docker.com/compose/reference/up/ "What is docker-compose up") or docker-compose  up -d (the background)
 
+**Stops running containers:**
+
+[docker-compose stop](https://docs.docker.com/compose/reference/stop/ "What is docker-compose stop")
+
 *What is there:* 
 
 - Linux;
