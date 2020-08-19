@@ -27,6 +27,6 @@
 - Linux;
 - Nginx;
 - php-fpm;
-- php 7.4.9 + xdebug;
+- php 7.4.9 + Xdebug;
 - MariaDB;
 - phpMyAdmin;
