@@ -3,6 +3,7 @@
 **Ports used:**
 - 80 (nginx);
 - 8080 (phpMyAdmin);
+- 9000 (Xdebug);
 
 **1) Download this repository**
 
